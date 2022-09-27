@@ -1,0 +1,11 @@
+librosa
+matplotlib
+librosa
+matplotlib
+tensorboardX
+pyworld
+numpy
+scipy
+tqdm
+pillow
+pyyaml
